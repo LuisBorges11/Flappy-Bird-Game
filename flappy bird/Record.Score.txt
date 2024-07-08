@@ -1,0 +1,9 @@
+
+Jogador: Luis; Score: 15; 
+Jogador: Luis; Score: 8; 
+Jogador: Luis; Score: 5; 
+Jogador: Luis; Score: 2; 
+Jogador: Ljuis; Score: 2; 
+Jogador: Luis; Score: 4; 
+Jogador: 123; Score: 0; 
+Jogador: 1265; Score: 2; 

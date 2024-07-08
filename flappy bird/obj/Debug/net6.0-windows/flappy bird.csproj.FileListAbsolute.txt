@@ -1,0 +1,21 @@
+C:\Users\agrma\Documents\ATEC - TPSICAS 1022\Programação\C#\vstudio-form_exe\flappy bird\bin\Debug\net6.0-windows\flappy bird.exe
+C:\Users\agrma\Documents\ATEC - TPSICAS 1022\Programação\C#\vstudio-form_exe\flappy bird\bin\Debug\net6.0-windows\flappy bird.deps.json
+C:\Users\agrma\Documents\ATEC - TPSICAS 1022\Programação\C#\vstudio-form_exe\flappy bird\bin\Debug\net6.0-windows\flappy bird.runtimeconfig.json
+C:\Users\agrma\Documents\ATEC - TPSICAS 1022\Programação\C#\vstudio-form_exe\flappy bird\bin\Debug\net6.0-windows\flappy bird.dll
+C:\Users\agrma\Documents\ATEC - TPSICAS 1022\Programação\C#\vstudio-form_exe\flappy bird\bin\Debug\net6.0-windows\flappy bird.pdb
+C:\Users\agrma\Documents\ATEC - TPSICAS 1022\Programação\C#\vstudio-form_exe\flappy bird\obj\Debug\net6.0-windows\flappy bird.csproj.AssemblyReference.cache
+C:\Users\agrma\Documents\ATEC - TPSICAS 1022\Programação\C#\vstudio-form_exe\flappy bird\obj\Debug\net6.0-windows\flappy_bird.Form1.resources
+C:\Users\agrma\Documents\ATEC - TPSICAS 1022\Programação\C#\vstudio-form_exe\flappy bird\obj\Debug\net6.0-windows\flappy_bird.Properties.Resources.resources
+C:\Users\agrma\Documents\ATEC - TPSICAS 1022\Programação\C#\vstudio-form_exe\flappy bird\obj\Debug\net6.0-windows\flappy bird.csproj.GenerateResource.cache
+C:\Users\agrma\Documents\ATEC - TPSICAS 1022\Programação\C#\vstudio-form_exe\flappy bird\obj\Debug\net6.0-windows\flappy bird.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agrma\Documents\ATEC - TPSICAS 1022\Programação\C#\vstudio-form_exe\flappy bird\obj\Debug\net6.0-windows\flappy bird.AssemblyInfoInputs.cache
+C:\Users\agrma\Documents\ATEC - TPSICAS 1022\Programação\C#\vstudio-form_exe\flappy bird\obj\Debug\net6.0-windows\flappy bird.AssemblyInfo.cs
+C:\Users\agrma\Documents\ATEC - TPSICAS 1022\Programação\C#\vstudio-form_exe\flappy bird\obj\Debug\net6.0-windows\flappy bird.csproj.CoreCompileInputs.cache
+C:\Users\agrma\Documents\ATEC - TPSICAS 1022\Programação\C#\vstudio-form_exe\flappy bird\obj\Debug\net6.0-windows\flappy bird.dll
+C:\Users\agrma\Documents\ATEC - TPSICAS 1022\Programação\C#\vstudio-form_exe\flappy bird\obj\Debug\net6.0-windows\refint\flappy bird.dll
+C:\Users\agrma\Documents\ATEC - TPSICAS 1022\Programação\C#\vstudio-form_exe\flappy bird\obj\Debug\net6.0-windows\flappy bird.pdb
+C:\Users\agrma\Documents\ATEC - TPSICAS 1022\Programação\C#\vstudio-form_exe\flappy bird\obj\Debug\net6.0-windows\flappy bird.genruntimeconfig.cache
+C:\Users\agrma\Documents\ATEC - TPSICAS 1022\Programação\C#\vstudio-form_exe\flappy bird\obj\Debug\net6.0-windows\ref\flappy bird.dll
+C:\Users\agrma\Documents\ATEC - TPSICAS 1022\Programação\C#\vstudio-form_exe\flappy bird\obj\Debug\net6.0-windows\flappy_bird.Form2.resources
+C:\Users\agrma\Documents\ATEC - TPSICAS 1022\Programação\C#\vstudio-form_exe\flappy bird\bin\Debug\net6.0-windows\flappy bird.dll.config
+C:\Users\agrma\Documents\ATEC - TPSICAS 1022\Programação\C#\vstudio-form_exe\flappy bird\obj\Debug\net6.0-windows\flappy_bird.Form3.resources
